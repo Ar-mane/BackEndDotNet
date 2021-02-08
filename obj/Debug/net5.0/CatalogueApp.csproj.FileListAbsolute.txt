@@ -1,0 +1,90 @@
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.exe
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.deps.json
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.runtimeconfig.json
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.runtimeconfig.dev.json
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\ref\CatalogueApp.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.pdb
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.Views.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\CatalogueApp.Views.pdb
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.csprojAssemblyReference.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.AssemblyInfoInputs.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.AssemblyInfo.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.csproj.CoreCompileInputs.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.RazorAssemblyInfo.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.RazorAssemblyInfo.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\staticwebassets\CatalogueApp.StaticWebAssets.Manifest.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\staticwebassets\CatalogueApp.StaticWebAssets.xml
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\scopedcss\bundle\CatalogueApp.styles.css
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.TagHelpers.input.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.TagHelpers.output.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.RazorCoreGenerate.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.RazorTargetAssemblyInfo.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.RazorTargetAssemblyInfo.cs
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.Views.pdb
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\ref\CatalogueApp.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.pdb
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.genruntimeconfig.cache
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\obj\Debug\net5.0\CatalogueApp.csproj.CopyComplete
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar EL OUAHDANI\DNCore3\CatalogueApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\appsettings.json
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.exe
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.deps.json
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.runtimeconfig.json
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.runtimeconfig.dev.json
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\ref\CatalogueApp.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.pdb
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.Views.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\CatalogueApp.Views.pdb
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abder\Project_DoteNET_Back\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.csprojAssemblyReference.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.AssemblyInfoInputs.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.AssemblyInfo.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.csproj.CoreCompileInputs.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.RazorAssemblyInfo.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.RazorAssemblyInfo.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\staticwebassets\CatalogueApp.StaticWebAssets.Manifest.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\staticwebassets\CatalogueApp.StaticWebAssets.xml
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\scopedcss\bundle\CatalogueApp.styles.css
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.TagHelpers.input.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.TagHelpers.output.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.RazorCoreGenerate.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.RazorTargetAssemblyInfo.cache
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.RazorTargetAssemblyInfo.cs
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.Views.pdb
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.csproj.CopyComplete
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.dll
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\ref\CatalogueApp.dll
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.pdb
+C:\Users\Abder\Project_DoteNET_Back\obj\Debug\net5.0\CatalogueApp.genruntimeconfig.cache
